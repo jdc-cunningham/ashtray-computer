@@ -14,4 +14,4 @@ The two halves will stack with some screws.
 
 1:47 PM
 
-Had a brief break, modeled pi 4 b
+Had a brief break, modeled pi 4b
