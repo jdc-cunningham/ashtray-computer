@@ -1,3 +1,13 @@
+### 07/29/2024
+
+11:51 AM
+
+Well I was going to try and do some gig work but I didn't want to just sit there at a parking lot waiting for hours
+
+So here I am... finally some time off Amazon Prime week is over
+
+Gonna get this project over, I actually want to see how the Pi 4B is as a web browsing computer
+
 ### 07/15/2024
 
 11:51 AM
