@@ -1,4 +1,5 @@
 - used m1*4 screw
+- the RPi 4 screws aren't 100% right, a little off but still works
 
 ### 07/29/2024
 
